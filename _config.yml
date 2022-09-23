@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Open Virtual Lab"
+title                    : "OVL"
 title_separator          : "-"
 name                     : &name "Mussa Ngosha"
 description              : &description "A personal website"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ngoshajr"
+  github           : "https://github.com/NgoshaJr"
   google_plus      :
   keybase          :
   instagram        :
