@@ -64,7 +64,7 @@ Single line blockquote:
 
 | Year | Title| Institution |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
+|22nd-26th 2021 | AfricaGIS 2021: "Geospatial Innovation & Science for Africa's growth and Sustainable Developmen   | Cote D’Ivoire  |
 | cell4   | cell5   | cell6   |
 |-----------------------------|
 | cell1   | cell2   | cell3   |
