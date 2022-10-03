@@ -40,11 +40,13 @@ Single line blockquote:
 
 | Year | Title| Institution |
 |:--------|:-------:|--------:|
-|June-Sept 2022 | Early Carrier Visting Professionals   | Australia  |
-|November 2021 | AfricaGIS 2021: "Geospatial Innovation & Science for Africa's growth and Sustainable Developmen   | Cote D’Ivoire  |
-|22nd-26th 2021 | AfricaGIS 2021: "Geospatial Innovation & Science for Africa's growth and Sustainable Developmen   | Cote D’Ivoire  |
-|22nd-26th 2021 | AfricaGIS 2021: "Geospatial Innovation & Science for Africa's growth and Sustainable Developmen   | Cote D’Ivoire  |
-|22nd-26th 2021 | AfricaGIS 2021: "Geospatial Innovation & Science for Africa's growth and Sustainable Developmen   | Cote D’Ivoire  |
+|June-Sept, 2022 | Early Carrier Visting Professionals   | Australia  |
+|December, 2021 | Ecosystem Mapping and Coastal Vulnerability    | Cote D’Ivoire  |
+|November, 2021 | AfricaGIS: Geospatial Innovation & Science for Africa's growth and Sustainable Development   | Cote D’Ivoire  |
+|September, 2021 | Spatial Geoinformatics Using Machine Learning Approaches   | GRSS Kolkata, India (Virtual)|
+|August, 2021 | Deep Learning for Remote Sensing    | IEEE-GRSS, India (Virtual)  |
+|December, 2020 | Marine Weather Forecast    | GMESA, MOI-Mauritius (Virtual)  |
+|November, 2020 | Machine Learning and Satellite Revolution     | Radiant Earth Foundation  |
 | cell4   | cell5   | cell6   |
 |-----------------------------|
 | cell1   | cell2   | cell3   |
