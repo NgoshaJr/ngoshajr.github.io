@@ -62,7 +62,7 @@ Single line blockquote:
 
 ### Table 2
 
-| Header1 | Header2 | Header3 |
+| Year | Title| Institution |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
