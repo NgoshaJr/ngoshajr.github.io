@@ -7,30 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
-
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
-
-## Tips and hints
-
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
@@ -50,7 +26,7 @@ Single line blockquote:
 
 > Quotes are cool.
 
-## Tables
+## Training Courses and Workshops
 
 ### Table 1
 
@@ -64,6 +40,10 @@ Single line blockquote:
 
 | Year | Title| Institution |
 |:--------|:-------:|--------:|
+|June-Sept 2022 | Early Carrier Visting Professionals   | Australia  |
+|November 2021 | AfricaGIS 2021: "Geospatial Innovation & Science for Africa's growth and Sustainable Developmen   | Cote D’Ivoire  |
+|22nd-26th 2021 | AfricaGIS 2021: "Geospatial Innovation & Science for Africa's growth and Sustainable Developmen   | Cote D’Ivoire  |
+|22nd-26th 2021 | AfricaGIS 2021: "Geospatial Innovation & Science for Africa's growth and Sustainable Developmen   | Cote D’Ivoire  |
 |22nd-26th 2021 | AfricaGIS 2021: "Geospatial Innovation & Science for Africa's growth and Sustainable Developmen   | Cote D’Ivoire  |
 | cell4   | cell5   | cell6   |
 |-----------------------------|
@@ -72,98 +52,7 @@ Single line blockquote:
 |=============================|
 | Foot1   | Foot2   | Foot3   |
 
-## Definition Lists
 
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
 
 This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
 
