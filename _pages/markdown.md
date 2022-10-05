@@ -6,27 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
-
-## Markdown guide
-
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
-
-## Training Courses and Workshops
+## Training Courses and Workshops attended
 
 ### Table 1
 
@@ -47,12 +27,10 @@ Single line blockquote:
 |August, 2021 | Deep Learning for Remote Sensing    | IEEE-GRSS, India (Virtual)  |
 |December, 2020 | Marine Weather Forecast    | GMESA, MOI-Mauritius (Virtual)  |
 |November, 2020 | Machine Learning and Satellite Revolution     | Radiant Earth Foundation  |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+|November, 2020 | Earth Observation for Wetland’s Assessment, Monitoring, and Management    | SASSCAL (Virtual) |
+|November, 2020 | Big Data and Artificial Intelligence (AI) for Earth Observation    | European Commission (Virtual)  |
+|August, 2020 | Spatial Data Science    | ESRI  |
+|November, 2020 | Application of Earth Observation (EO) using Digital Earth Africa (DEA) platform      | DEA (Virtual) |
 
 
 
