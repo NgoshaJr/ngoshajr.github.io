@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "OVL"
+title                    : "Data Science+Oceanography+Fisheries"
 title_separator          : "-"
 name                     : &name "Mussa Ngosha"
 description              : &description "A personal website"
