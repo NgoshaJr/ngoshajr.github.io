@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Open Virtual Lab"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
