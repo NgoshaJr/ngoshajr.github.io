@@ -9,3 +9,14 @@ tags:
 ---
 
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+
+{% # for i in (1..3) -%}
+  {{ i }}
+{% # endfor %}
+
+{%
+  ###############################
+  # This is a comment
+  # across multiple lines
+  ###############################
+%}
