@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "EOO Lab"
+title                    : "EOO Lab: Data Science for Earth Observation & Oceanography"
 title_separator          : "-"
 name                     : &name "Mussa Ngosha"
 description              : &description "A personal website"
