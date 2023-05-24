@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mussa Ngosha"
-  avatar           : "ngosha2.jpg"
+  avatar           : "profile.jpg"
   bio              : "A Data Scientist |Machine Learning|Artificial Intelligence|Geospatial and Big Data Analytics"
   location         : "Dar es Salaam-Tanzania"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/NgoshaJr"
   google_plus      :
   keybase          :
   instagram        :
