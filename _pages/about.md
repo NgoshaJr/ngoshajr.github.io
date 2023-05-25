@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Mussa Ngosha is a Data Scientist at the Tanzania Fisheries Research Institute (TAFIRI). He holds a Master of Science degree in Data Science from the University of Dar es Salaam (UDSM), the College of Information and Communication Technologies (CoICT), and the Department of Computer Science and Engineering (DCSE). Additionally, Ngosha possesses a Bachelor of Science degree in Computer Science (Informatics) from Sokoine University of Agriculture (SUA), College of Computer Science, Department of Informatics.
+
+Ngosha has a wealth of experience in earth observation sciences, GIS and remote sensing, computer programming skills such as R and Python, artificial intelligence, machine learning, deep neural networks, and big data analytics. He is proficient in working with remotely sensed satellite imageries and in situ data from local, remote, and distributed servers. He has collaborated with scientists working on oceanography, blue carbon ecosystems, marine and coastal environments in the West Indian Ocean (WIO) region and Indo-Pacific waters.
+
+Ngosha has successfully developed a deep neural network model for detecting seagrass species from unnamed aerial vehicles’ (UAV) images. He also played a significant role in the development of the machine learning model for mangrove species classification from satellite imagery (Sentinel-2) data.
+
+Furthermore, Ngosha has attended various international conferences, workshops, and training courses worldwide, particularly in earth observation sciences and oceanography. He is a strong advocate of open science and reproducible research. He aspires to utilize science to solve problems rather than just study them.
+
+In summary, Ngosha is a highly qualified and experienced Data Scientist with expertise in various areas of data science. His impressive track record in developing innovative solutions for complex problems makes him a valuable asset to any organization., see the Resume tab..
 
 A data-driven personal website
 ======
