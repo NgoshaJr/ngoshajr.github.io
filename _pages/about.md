@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Mussa Ngosha is a Data Scientist at the Tanzania Fisheries Research Institute (TAFIRI). He holds a Master of Science degree in Data Science from the University of Dar es Salaam (UDSM), the College of Information and Communication Technologies (CoICT), and the Department of Computer Science and Engineering (DCSE). Additionally, Ngosha possesses a Bachelor of Science degree in Computer Science (Informatics) from Sokoine University of Agriculture (SUA), College of Computer Science, Department of Informatics.
+Mussa Ngosha is a Data Scientist at the Tanzania Fisheries Research Institute (TAFIRI). He holds a Master of Science degree in Data Science from the University of Dar es Salaam (UDSM)[UDSM](https://www.udsm.ac.tz/), the College of Information and Communication Technologies (CoICT), and the Department of Computer Science and Engineering (DCSE). Additionally, Ngosha possesses a Bachelor of Science degree in Computer Science (Informatics) from Sokoine University of Agriculture (SUA), College of Computer Science, Department of Informatics.
 
 Ngosha has a wealth of experience in earth observation sciences, GIS and remote sensing, computer programming skills such as R and Python, artificial intelligence, machine learning, deep neural networks, and big data analytics. He is proficient in working with remotely sensed satellite imageries and in situ data from local, remote, and distributed servers. He has collaborated with scientists working on oceanography, blue carbon ecosystems, marine and coastal environments in the West Indian Ocean (WIO) region and Indo-Pacific waters.
 
